@@ -1,7 +1,7 @@
 const ThirdPage = () => {
   return (
     <div className="third-page">
-      <img src="/public/third.png"/>
+      <img src="/images/third.png"/>
     </div>
   );
 };

@@ -5,7 +5,7 @@ type MainPageProps = {
 const MainPage = ({ onOpenDoc }: MainPageProps) => {
   return (
     <div className="">
-      <img onClick={onOpenDoc} src="/public/home-tunduk.png"/>
+      <img onClick={onOpenDoc} src="/images/home-tunduk.png"/>
     </div>
   );
 };
