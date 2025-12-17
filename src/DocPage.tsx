@@ -11,7 +11,7 @@ const DocPage = () => {
   return (
     <div className="">
       {state ?
-        <ThirdPage /> : <img onClick={onPageChange} src="/public/doc-tunduk.png"/>
+        <ThirdPage /> : <img onClick={onPageChange} src="/images/doc-tunduk.png"/>
       }
     </div>
   );
